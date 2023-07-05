@@ -1,0 +1,17 @@
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\bin\Debug\net6.0-windows\SınavOrtHesaplama.exe
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\bin\Debug\net6.0-windows\SınavOrtHesaplama.deps.json
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\bin\Debug\net6.0-windows\SınavOrtHesaplama.runtimeconfig.json
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\bin\Debug\net6.0-windows\SınavOrtHesaplama.dll
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\bin\Debug\net6.0-windows\SınavOrtHesaplama.pdb
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.csproj.AssemblyReference.cache
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.Form1.resources
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.csproj.GenerateResource.cache
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.AssemblyInfoInputs.cache
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.AssemblyInfo.cs
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.dll
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\refint\SınavOrtHesaplama.dll
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.pdb
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\SınavOrtHesaplama.genruntimeconfig.cache
+C:\Users\katalay\source\repos\SınavOrtHesaplama\SınavOrtHesaplama\obj\Debug\net6.0-windows\ref\SınavOrtHesaplama.dll
